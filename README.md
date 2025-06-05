@@ -64,7 +64,7 @@ This project predicts the **gold price in India** using gold prices in **USD**, 
 
 ---
 
-##🙏 Credits
+## 🙏 Credits
 Data Source: Yahoo Finance
 
 Tools: Gradio, Scikit-learn, Pandas, Matplotlib

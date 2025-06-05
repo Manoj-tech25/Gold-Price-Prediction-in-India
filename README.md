@@ -44,7 +44,7 @@ This project predicts the **gold price in India** using gold prices in **USD**, 
    pip install yfinance pandas numpy matplotlib seaborn scikit-learn gradio
 ---
 
-##🧠 ML Model Info
+## 🧠 ML Model Info
 **Model**: (e.g., Linear Regression, Random Forest)
 
 **Features scaled using StandardScaler**
@@ -54,9 +54,13 @@ This project predicts the **gold price in India** using gold prices in **USD**, 
 **Output**: Predicted INR gold price
 
 ├── app.py               # Main app with Gradio interface
+
 ├── indian_gold.csv      # INR gold prices (your dataset)
+
 ├── usd_gold.csv         # USD gold prices from yfinance
+
 ├── README.md            # Project documentation
+
 
 ---
 
